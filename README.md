@@ -12,7 +12,6 @@ O projeto é uma calculadora desenvolvida em HTML, CSS e JavaScript.
 
 ➗ Multiplicar
 
-♥️ Bonus: Temas Clean and Dark - Claro e Escuro; - Ainda em estudos
 
 #
 ## 🧩Layout:
