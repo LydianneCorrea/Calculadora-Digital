@@ -14,10 +14,9 @@ function back(){
 
 function calcular(){
     var resultado = document.getElementById('resultado').innerHTML
-    
     if(resultado){
-        document.getElementById('resultado').innerHTML = eval(resultado)
+        document.getElementById('resultado').innerHTML= eval(resultado)
     }else{
-        document.getElementById('resultado').innerHTML = "nada..."
+        document.getElementById('resultado').innerHTML = "nada"
     }
 }

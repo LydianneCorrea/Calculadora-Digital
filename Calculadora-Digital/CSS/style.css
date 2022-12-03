@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(to right, #cf21f2, white);
+    font-family: verdana;
+    font-size: 10px;
+    margin: 20%;
+    text-align: left;
+    
+    }
+    .botao{
+      border-style: outset;
+      border-radius: 6px;
+      padding: 10px 24px;
+      width: 60px;
+      background-color: #d707f2;
+      color: #e2dfdf;
+     font-family: Verdana;
+      font-size: 16px;
+      font-style: normal;
+    }
+    .fundo {
+     height: 50px;
+     width: 120px;
+     position: absolute;
+     top: 30%;
+     right: 50%;
+    
+    }
+    .quadro {
+    border-style: inset;
+    height: 34px;
+    width: 250px;
+    background-color: #d7f4d7;
+    font-size: 28px;
+            
+    }
+    background-color: #d0aecf;;
+    font-size: 28px;
+            
+    }
